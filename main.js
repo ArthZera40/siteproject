@@ -70,7 +70,6 @@ function backToTopButton() {
   }
 }
 
-
 /* Menu ativo conforme a seção visível na página */
 const sections = document.querySelectorAll('main section[id]')
 function activateMenuAtCurrentSection() {
